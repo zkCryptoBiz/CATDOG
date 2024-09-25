@@ -874,7 +874,7 @@ var deferred,
               react.createElement(
                 "span",
                 { className: "contractValue" },
-                "niX71D572xNwyS97jnASjnjsNMvCb7oxbkX6xMDpump"
+                "Vc82vQsoigcfqWiB6CMjLwoha8fL1CYZKt4Y7ajpump"
               )
             )
           )
