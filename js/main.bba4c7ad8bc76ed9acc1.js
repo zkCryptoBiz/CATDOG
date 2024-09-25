@@ -555,7 +555,7 @@ var deferred,
               { className: "footer-socials-item" },
               react.createElement(
                 "a",
-                { href: "https://x.com/Catdog_pump" },
+                { href: "https://x.com/catdogdotfun" },
                 react.createElement("img", { src: "../assets/images/soc1.png" })
               )
             ),
@@ -564,7 +564,7 @@ var deferred,
               { className: "footer-socials-item" },
               react.createElement(
                 "a",
-                { href: "https://t.me/CatDog_solpump" },
+                { href: "https://t.me/catdogdotfun" },
                 react.createElement("img", { src: "../assets/images/soc2.png" })
               )
             ),
@@ -654,7 +654,7 @@ var deferred,
                 "a",
                 {
                   className: "header-socs__item",
-                  href: "https://t.me/CatDog_solpump",
+                  href: "https://t.me/catdogdotfun",
                 },
                 react.createElement("img", {
                   src: "../assets/images/headerTg.png",
@@ -664,7 +664,7 @@ var deferred,
                 "a",
                 {
                   className: "header-socs__item",
-                  href: "https://x.com/Catdog_pump",
+                  href: "https://x.com/catdogdotfun",
                 },
                 react.createElement("img", {
                   src: "../assets/images/headerTwitter.png",
@@ -746,16 +746,16 @@ var deferred,
               }),
               react.createElement(
                 "a",
-                { href: "https://t.me/CatDog_solpump" },
+                { href: "https://t.me/catdogdotfun" },
                 react.createElement("img", {
                   className: "socsImg",
                   src: "../assets/images/headerTg.png",
-                  href: "https://t.me/CatDog_solpump",
+                  href: "https://t.me/catdogdotfun",
                 })
               ),
               react.createElement(
                 "a",
-                { href: "https://x.com/Catdog_pump" },
+                { href: "https://x.com/catdogdotfun" },
                 react.createElement("img", {
                   className: "socsImg",
                   src: "../assets/images/headerTwitter.png",
