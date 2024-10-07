@@ -508,7 +508,7 @@ var deferred,
               react.createElement(
                 "a",
                 {
-                  href: "https://pump.fun/Vc82vQsoigcfqWiB6CMjLwoha8fL1CYZKt4Y7ajpump",
+                  href: "",
                 },
                 react.createElement("span", { className: "footer-buy" }, "buy")
               ),
@@ -534,7 +534,7 @@ var deferred,
               react.createElement(
                 "a",
                 {
-                  href: "https://pump.fun/Vc82vQsoigcfqWiB6CMjLwoha8fL1CYZKt4Y7ajpump",
+                  href: "",
                   onClick: smooth,
                   className: "footer-link",
                 },
@@ -555,7 +555,7 @@ var deferred,
               { className: "footer-socials-item" },
               react.createElement(
                 "a",
-                { href: "https://x.com/catdogdotfun" },
+                { href: "" },
                 react.createElement("img", { src: "../assets/images/soc1.png" })
               )
             ),
@@ -564,7 +564,7 @@ var deferred,
               { className: "footer-socials-item" },
               react.createElement(
                 "a",
-                { href: "https://t.me/catdogdotfun" },
+                { href: "" },
                 react.createElement("img", { src: "../assets/images/soc2.png" })
               )
             ),
@@ -574,7 +574,7 @@ var deferred,
               react.createElement(
                 "a",
                 {
-                  href: "https://pump.fun/Vc82vQsoigcfqWiB6CMjLwoha8fL1CYZKt4Y7ajpump",
+                  href: "",
                 },
                 react.createElement("img", { 
                   src: "../assets/images/soc3.png", 
@@ -654,7 +654,7 @@ var deferred,
                 "a",
                 {
                   className: "header-socs__item",
-                  href: "https://t.me/catdogdotfun",
+                  href: "",
                 },
                 react.createElement("img", {
                   src: "../assets/images/headerTg.png",
@@ -664,7 +664,7 @@ var deferred,
                 "a",
                 {
                   className: "header-socs__item",
-                  href: "https://x.com/catdogdotfun",
+                  href: "",
                 },
                 react.createElement("img", {
                   src: "../assets/images/headerTwitter.png",
@@ -746,16 +746,16 @@ var deferred,
               }),
               react.createElement(
                 "a",
-                { href: "https://t.me/catdogdotfun" },
+                { href: "" },
                 react.createElement("img", {
                   className: "socsImg",
                   src: "../assets/images/headerTg.png",
-                  href: "https://t.me/catdogdotfun",
+                  href: "",
                 })
               ),
               react.createElement(
                 "a",
-                { href: "https://x.com/catdogdotfun" },
+                { href: "" },
                 react.createElement("img", {
                   className: "socsImg",
                   src: "../assets/images/headerTwitter.png",
@@ -874,7 +874,7 @@ var deferred,
               react.createElement(
                 "span",
                 { className: "contractValue" },
-                "Vc82vQsoigcfqWiB6CMjLwoha8fL1CYZKt4Y7ajpump"
+                ""
               )
             )
           )
